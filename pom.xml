@@ -71,6 +71,7 @@
                 <artifactId>jjwt</artifactId>
                 <version>${jsonwebtoken.version}</version>
             </dependency>
+
           <dependency>
             <groupId>fr.uga.l3miage.example</groupId>
             <artifactId>rest-api</artifactId>
